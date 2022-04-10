@@ -19,6 +19,8 @@ public class LoginTest {
 		System.out.println("KabindraUpdategor Git Hub");
 		//Kbin New Laptop
 		System.out.println("My new laptop to office via git hub");
+		//[Kabin change master branch to develop]
+		System.out.println("Let's learn it togather");
 	}
 	
 }
